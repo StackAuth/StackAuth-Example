@@ -1,0 +1,17 @@
+{
+  "StackAuth": {
+    "update": [
+      {
+        "id": "Stack_01_9308",
+        "username": "",
+        "version": "1.0.0.2",
+        "URL": "https://stackworkshop.com/auth/apps/1/TwitchWorkshop.exe"
+      }
+    ],
+    "Info": [
+      {
+        "AppName": "StackWorkShop"
+      }
+    ]
+  }
+}
