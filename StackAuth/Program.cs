@@ -14,7 +14,7 @@ namespace StackAuth
         [STAThread]
         static void Main()
         {
-            OnProgramStart.Initialize("StackWorkShop", "1", "MybgKgVLGA", "1.0.0.1", "Stack-kxBC3aBdP0", false, false);
+            OnProgramStart.Initialize("StackWorkShop", "1", "MybgKgVLGA", "1.0.0.1", "Stack-kxBC3aBdP0", "9qaALU9wAbIg9GmHpXcVKCi7ibckgQRmMA79XazJDm3PtqWhCB==", false, false);
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
